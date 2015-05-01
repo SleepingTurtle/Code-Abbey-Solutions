@@ -1,8 +1,8 @@
 #include <iostream>
 
-#using namespace std;
+using namespace std;
 
-int main void()
+int main()
 {
 	int number1 = 7033705, number2 = 3915098;
 
