@@ -9,7 +9,7 @@ int main()
 	cin >> counter;
 
 	int loop[counter];
-	int sum = 0;
+	int sum = 0; 	
 	cout << "Enter an array of numbers: "
 	for(int i = 0; i < counter; i++)
 	{
